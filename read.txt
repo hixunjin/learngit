@@ -14,3 +14,6 @@ Createing a new branch is quick and simple
 
 Wr are using stash function to finish to save our work_status
 
+测试 cherry-pick 命令
+
+
