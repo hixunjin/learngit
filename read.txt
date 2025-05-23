@@ -1,4 +1,5 @@
 Git is a distributed verison control system
+
 Git is free software distributed under the GPL
 Git has a mutable index stage
 createing a new branch is quick
@@ -8,3 +9,5 @@ Createing a new branch is quick and simple
 
 
 we are using no_fast_forward
+
+Wr are using stash function to finish to save our work_status
