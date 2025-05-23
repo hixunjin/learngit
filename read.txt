@@ -7,7 +7,6 @@ Git is a free software distributed under the GPL
 Git is a distributed verison control system
 Git is a free software distributed under the GPL
 Git has a mutable index stage
->>>>>>> f8d47b2 (fix the Bug)
 createing a new branch is quick
 
 This is a mix in branch main
