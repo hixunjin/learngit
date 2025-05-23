@@ -4,3 +4,5 @@ Git has a mutable index stage
 createing a new branch is quick
 
 This is a mix in branch main
+Createing a new branch is quick and simple
+
