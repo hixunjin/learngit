@@ -8,3 +8,5 @@ Createing a new branch is quick and simple
 
 
 we are using no_fast_forward
+
+ban ff pattern
